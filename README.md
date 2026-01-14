@@ -61,9 +61,9 @@ Technologies
 
 Python
 
-NLTK / spaCy – text preprocessing and NLP
+NLTK – text preprocessing and NLP
 
-NetworkX / iGraph – social network analysis
+NetworkX  – social network analysis
 
 Pandas / NumPy – data handling
 
